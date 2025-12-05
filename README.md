@@ -12,7 +12,7 @@ Here are some of the projects I've worked on:
 
 | Project | Description | Tech Stack | Live Demo / Repo |
 |--------|-------------|------------|------------------|
-| **WeebHQ** | WeebHQ is a multi-platform anime streaming application built to deliver a seamless, high-performance viewing experience across Android, Web, Desktop, and TV devices. Designed with a clean, responsive UI and powered by modern Flutter architecture, it integrates smart data aggregation from multiple anime sources for accurate metadata, schedules, and episode listings. | Flutter, Django, Python | [🌐 WeebHQ](https://weebhq.pages.dev) |
+| **WeebHQ** | WeebHQ is a multi-platform anime streaming application built to deliver a seamless, high-performance viewing experience across Android, Web, Desktop, and TV devices. | Flutter, Django, Python | [🌐 WeebHQ](https://weebhq.pages.dev) |
 | **OneOne** | Open Source social media service that turns your phone into a walkie-talkie. | Flutter | [🔗 GitHub](https://github.com/oneoneapp/oneoneapp) |
 | **AMS** | The UCEK Attendance Management System is a comprehensive platform developed by the MuLearn Club at UCEK. | Next.js, TailWind, Node.js, ShadCn | [🌐 AMS](https://ams.mulearn.uck.ac.in/) |
 
